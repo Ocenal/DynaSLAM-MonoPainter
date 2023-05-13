@@ -24,6 +24,6 @@ chmod +x build.sh
 
 ## Example of painted frame
 (data from TUM-dataset/rgbd_dataset_freiburg3_walking_xyz)
-![1341846320 699927](https://github.com/Ocenal/DynaSLAM_MonoPainter/assets/61320052/d1e812e9-45f1-4291-aa5e-144597515476)
-![1341846320 699927](https://github.com/Ocenal/DynaSLAM_MonoPainter/assets/61320052/03870154-9477-4bd9-afde-08d6a9df424f)
+![o1341846320 699927](https://github.com/Ocenal/DynaSLAM-MonoPainter/assets/61320052/29cc216d-70dc-40a9-a51a-eafcc201b014)
+![1341846320 699927](https://github.com/Ocenal/DynaSLAM-MonoPainter/assets/61320052/584f9597-fd02-475c-8d71-57eb7553393e)
 
